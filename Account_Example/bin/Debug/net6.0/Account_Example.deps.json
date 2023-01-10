@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Account_Example/1.0.0": {
+        "dependencies": {
+          "Exception_Account": "1.0.0"
+        },
+        "runtime": {
+          "Account_Example.dll": {}
+        }
+      },
+      "Exception_Account/1.0.0": {
+        "runtime": {
+          "Exception_Account.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Account_Example/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exception_Account/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

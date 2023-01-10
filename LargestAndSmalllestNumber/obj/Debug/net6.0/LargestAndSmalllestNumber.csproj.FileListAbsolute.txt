@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\LargestAndSmalllestNumber\bin\Debug\net6.0\LargestAndSmalllestNumber.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\LargestAndSmalllestNumber\bin\Debug\net6.0\LargestAndSmalllestNumber.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\LargestAndSmalllestNumber\bin\Debug\net6.0\LargestAndSmalllestNumber.runtimeconfig.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\LargestAndSmalllestNumber\bin\Debug\net6.0\LargestAndSmalllestNumber.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\LargestAndSmalllestNumber\bin\Debug\net6.0\LargestAndSmalllestNumber.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\LargestAndSmalllestNumber\obj\Debug\net6.0\LargestAndSmalllestNumber.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\LargestAndSmalllestNumber\obj\Debug\net6.0\LargestAndSmalllestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\LargestAndSmalllestNumber\obj\Debug\net6.0\LargestAndSmalllestNumber.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\LargestAndSmalllestNumber\obj\Debug\net6.0\LargestAndSmalllestNumber.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\LargestAndSmalllestNumber\obj\Debug\net6.0\LargestAndSmalllestNumber.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\LargestAndSmalllestNumber\obj\Debug\net6.0\LargestAndSmalllestNumber.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\LargestAndSmalllestNumber\obj\Debug\net6.0\refint\LargestAndSmalllestNumber.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\LargestAndSmalllestNumber\obj\Debug\net6.0\LargestAndSmalllestNumber.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\LargestAndSmalllestNumber\obj\Debug\net6.0\LargestAndSmalllestNumber.genruntimeconfig.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\LargestAndSmalllestNumber\obj\Debug\net6.0\ref\LargestAndSmalllestNumber.dll

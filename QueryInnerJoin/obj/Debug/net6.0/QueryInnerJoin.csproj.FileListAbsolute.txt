@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QueryInnerJoin\bin\Debug\net6.0\QueryInnerJoin.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QueryInnerJoin\bin\Debug\net6.0\QueryInnerJoin.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QueryInnerJoin\bin\Debug\net6.0\QueryInnerJoin.runtimeconfig.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QueryInnerJoin\bin\Debug\net6.0\QueryInnerJoin.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QueryInnerJoin\bin\Debug\net6.0\QueryInnerJoin.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QueryInnerJoin\obj\Debug\net6.0\QueryInnerJoin.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QueryInnerJoin\obj\Debug\net6.0\QueryInnerJoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QueryInnerJoin\obj\Debug\net6.0\QueryInnerJoin.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QueryInnerJoin\obj\Debug\net6.0\QueryInnerJoin.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QueryInnerJoin\obj\Debug\net6.0\QueryInnerJoin.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QueryInnerJoin\obj\Debug\net6.0\QueryInnerJoin.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QueryInnerJoin\obj\Debug\net6.0\refint\QueryInnerJoin.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QueryInnerJoin\obj\Debug\net6.0\QueryInnerJoin.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QueryInnerJoin\obj\Debug\net6.0\QueryInnerJoin.genruntimeconfig.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QueryInnerJoin\obj\Debug\net6.0\ref\QueryInnerJoin.dll

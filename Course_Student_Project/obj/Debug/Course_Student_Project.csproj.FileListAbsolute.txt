@@ -1,0 +1,13 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Course_Student_Project\bin\Debug\Course_Student_Project.exe.config
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Course_Student_Project\bin\Debug\Course_Student_Project.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Course_Student_Project\bin\Debug\Course_Student_Project.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Course_Student_Project\bin\Debug\EntityFramework.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Course_Student_Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Course_Student_Project\bin\Debug\EntityFramework.xml
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Course_Student_Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Course_Student_Project\obj\Debug\Course_Student_Project.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Course_Student_Project\obj\Debug\Course_Student_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Course_Student_Project\obj\Debug\Course_Student_Project.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Course_Student_Project\obj\Debug\Course_Student_Project.csproj.CopyComplete
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Course_Student_Project\obj\Debug\Course_Student_Project.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Course_Student_Project\obj\Debug\Course_Student_Project.pdb

@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Destructor\bin\Debug\net6.0\Destructor.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Destructor\bin\Debug\net6.0\Destructor.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Destructor\bin\Debug\net6.0\Destructor.runtimeconfig.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Destructor\bin\Debug\net6.0\Destructor.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Destructor\bin\Debug\net6.0\Destructor.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Destructor\obj\Debug\net6.0\Destructor.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Destructor\obj\Debug\net6.0\Destructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Destructor\obj\Debug\net6.0\Destructor.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Destructor\obj\Debug\net6.0\Destructor.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Destructor\obj\Debug\net6.0\Destructor.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Destructor\obj\Debug\net6.0\Destructor.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Destructor\obj\Debug\net6.0\refint\Destructor.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Destructor\obj\Debug\net6.0\Destructor.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Destructor\obj\Debug\net6.0\Destructor.genruntimeconfig.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Destructor\obj\Debug\net6.0\ref\Destructor.dll

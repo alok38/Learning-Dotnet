@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Student_Exception_Assignment/1.0.0": {
+        "dependencies": {
+          "Exception_Library": "1.0.0"
+        },
+        "runtime": {
+          "Student_Exception_Assignment.dll": {}
+        }
+      },
+      "Exception_Library/1.0.0": {
+        "runtime": {
+          "Exception_Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Student_Exception_Assignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exception_Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

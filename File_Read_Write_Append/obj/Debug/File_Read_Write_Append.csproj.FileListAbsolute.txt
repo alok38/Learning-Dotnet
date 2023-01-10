@@ -1,0 +1,11 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\File_Read_Write_Append\bin\Debug\File_Read_Write_Append.exe.config
+C:\Users\labuser\Desktop\repos\Learning Dotnet\File_Read_Write_Append\bin\Debug\File_Read_Write_Append.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\File_Read_Write_Append\bin\Debug\File_Read_Write_Append.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\File_Read_Write_Append\obj\Debug\File_Read_Write_Append.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\File_Read_Write_Append\obj\Debug\File_Read_Write_Append.csproj.SuggestedBindingRedirects.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\File_Read_Write_Append\obj\Debug\File_Read_Write_Append.frmOperations.resources
+C:\Users\labuser\Desktop\repos\Learning Dotnet\File_Read_Write_Append\obj\Debug\File_Read_Write_Append.Properties.Resources.resources
+C:\Users\labuser\Desktop\repos\Learning Dotnet\File_Read_Write_Append\obj\Debug\File_Read_Write_Append.csproj.GenerateResource.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\File_Read_Write_Append\obj\Debug\File_Read_Write_Append.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\File_Read_Write_Append\obj\Debug\File_Read_Write_Append.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\File_Read_Write_Append\obj\Debug\File_Read_Write_Append.pdb

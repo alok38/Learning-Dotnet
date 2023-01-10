@@ -1,0 +1,13 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ModelFirst\bin\Debug\ModelFirst.exe.config
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ModelFirst\bin\Debug\ModelFirst.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ModelFirst\bin\Debug\ModelFirst.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ModelFirst\bin\Debug\EntityFramework.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ModelFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ModelFirst\bin\Debug\EntityFramework.xml
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ModelFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ModelFirst\obj\Debug\ModelFirst.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ModelFirst\obj\Debug\ModelFirst.csproj.SuggestedBindingRedirects.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ModelFirst\obj\Debug\ModelFirst.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ModelFirst\obj\Debug\ModelFirst.csproj.CopyComplete
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ModelFirst\obj\Debug\ModelFirst.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ModelFirst\obj\Debug\ModelFirst.pdb

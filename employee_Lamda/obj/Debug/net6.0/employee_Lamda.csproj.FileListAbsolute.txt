@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\employee_Lamda\bin\Debug\net6.0\employee_Lamda.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\employee_Lamda\bin\Debug\net6.0\employee_Lamda.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\employee_Lamda\bin\Debug\net6.0\employee_Lamda.runtimeconfig.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\employee_Lamda\bin\Debug\net6.0\employee_Lamda.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\employee_Lamda\bin\Debug\net6.0\employee_Lamda.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\employee_Lamda\obj\Debug\net6.0\employee_Lamda.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\employee_Lamda\obj\Debug\net6.0\employee_Lamda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\employee_Lamda\obj\Debug\net6.0\employee_Lamda.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\employee_Lamda\obj\Debug\net6.0\employee_Lamda.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\employee_Lamda\obj\Debug\net6.0\employee_Lamda.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\employee_Lamda\obj\Debug\net6.0\employee_Lamda.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\employee_Lamda\obj\Debug\net6.0\refint\employee_Lamda.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\employee_Lamda\obj\Debug\net6.0\employee_Lamda.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\employee_Lamda\obj\Debug\net6.0\employee_Lamda.genruntimeconfig.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\employee_Lamda\obj\Debug\net6.0\ref\employee_Lamda.dll

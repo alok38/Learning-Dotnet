@@ -1,0 +1,11 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\AutoUpdate_Disconnected_Type\bin\Debug\AutoUpdate_Disconnected_Type.exe.config
+C:\Users\labuser\Desktop\repos\Learning Dotnet\AutoUpdate_Disconnected_Type\bin\Debug\AutoUpdate_Disconnected_Type.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\AutoUpdate_Disconnected_Type\bin\Debug\AutoUpdate_Disconnected_Type.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\AutoUpdate_Disconnected_Type\obj\Debug\AutoUpdate_Disconnected_Type.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\AutoUpdate_Disconnected_Type\obj\Debug\AutoUpdate_Disconnected_Type.csproj.SuggestedBindingRedirects.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\AutoUpdate_Disconnected_Type\obj\Debug\AutoUpdate_Disconnected_Type.Form1.resources
+C:\Users\labuser\Desktop\repos\Learning Dotnet\AutoUpdate_Disconnected_Type\obj\Debug\AutoUpdate_Disconnected_Type.Properties.Resources.resources
+C:\Users\labuser\Desktop\repos\Learning Dotnet\AutoUpdate_Disconnected_Type\obj\Debug\AutoUpdate_Disconnected_Type.csproj.GenerateResource.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\AutoUpdate_Disconnected_Type\obj\Debug\AutoUpdate_Disconnected_Type.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\AutoUpdate_Disconnected_Type\obj\Debug\AutoUpdate_Disconnected_Type.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\AutoUpdate_Disconnected_Type\obj\Debug\AutoUpdate_Disconnected_Type.pdb

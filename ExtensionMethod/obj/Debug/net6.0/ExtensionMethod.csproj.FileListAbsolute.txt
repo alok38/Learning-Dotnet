@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.runtimeconfig.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ExtensionMethod\obj\Debug\net6.0\refint\ExtensionMethod.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.genruntimeconfig.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ExtensionMethod\obj\Debug\net6.0\ref\ExtensionMethod.dll

@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\InterfaceImplementation_Assignment\bin\Debug\net6.0\InterfaceImplementation_Assignment.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\InterfaceImplementation_Assignment\bin\Debug\net6.0\InterfaceImplementation_Assignment.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\InterfaceImplementation_Assignment\bin\Debug\net6.0\InterfaceImplementation_Assignment.runtimeconfig.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\InterfaceImplementation_Assignment\bin\Debug\net6.0\InterfaceImplementation_Assignment.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\InterfaceImplementation_Assignment\bin\Debug\net6.0\InterfaceImplementation_Assignment.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\InterfaceImplementation_Assignment\obj\Debug\net6.0\InterfaceImplementation_Assignment.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\InterfaceImplementation_Assignment\obj\Debug\net6.0\InterfaceImplementation_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\InterfaceImplementation_Assignment\obj\Debug\net6.0\InterfaceImplementation_Assignment.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\InterfaceImplementation_Assignment\obj\Debug\net6.0\InterfaceImplementation_Assignment.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\InterfaceImplementation_Assignment\obj\Debug\net6.0\InterfaceImplementation_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\InterfaceImplementation_Assignment\obj\Debug\net6.0\InterfaceImplementation_Assignment.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\InterfaceImplementation_Assignment\obj\Debug\net6.0\refint\InterfaceImplementation_Assignment.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\InterfaceImplementation_Assignment\obj\Debug\net6.0\InterfaceImplementation_Assignment.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\InterfaceImplementation_Assignment\obj\Debug\net6.0\InterfaceImplementation_Assignment.genruntimeconfig.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\InterfaceImplementation_Assignment\obj\Debug\net6.0\ref\InterfaceImplementation_Assignment.dll

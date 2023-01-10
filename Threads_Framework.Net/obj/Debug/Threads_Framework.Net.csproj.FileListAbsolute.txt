@@ -1,0 +1,8 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Threads_Framework.Net\bin\Debug\Threads_Framework.Net.exe.config
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Threads_Framework.Net\bin\Debug\Threads_Framework.Net.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Threads_Framework.Net\bin\Debug\Threads_Framework.Net.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Threads_Framework.Net\obj\Debug\Threads_Framework.Net.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Threads_Framework.Net\obj\Debug\Threads_Framework.Net.csproj.SuggestedBindingRedirects.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Threads_Framework.Net\obj\Debug\Threads_Framework.Net.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Threads_Framework.Net\obj\Debug\Threads_Framework.Net.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Threads_Framework.Net\obj\Debug\Threads_Framework.Net.pdb

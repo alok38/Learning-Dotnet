@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\PalindromicWord\bin\Debug\net6.0\PalindromicWord.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\PalindromicWord\bin\Debug\net6.0\PalindromicWord.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\PalindromicWord\bin\Debug\net6.0\PalindromicWord.runtimeconfig.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\PalindromicWord\bin\Debug\net6.0\PalindromicWord.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\PalindromicWord\bin\Debug\net6.0\PalindromicWord.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\PalindromicWord\obj\Debug\net6.0\PalindromicWord.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\PalindromicWord\obj\Debug\net6.0\PalindromicWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\PalindromicWord\obj\Debug\net6.0\PalindromicWord.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\PalindromicWord\obj\Debug\net6.0\PalindromicWord.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\PalindromicWord\obj\Debug\net6.0\PalindromicWord.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\PalindromicWord\obj\Debug\net6.0\PalindromicWord.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\PalindromicWord\obj\Debug\net6.0\refint\PalindromicWord.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\PalindromicWord\obj\Debug\net6.0\PalindromicWord.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\PalindromicWord\obj\Debug\net6.0\PalindromicWord.genruntimeconfig.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\PalindromicWord\obj\Debug\net6.0\ref\PalindromicWord.dll

@@ -1,0 +1,11 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\HelloWindow\bin\Debug\HelloWindow.exe.config
+C:\Users\labuser\Desktop\repos\Learning Dotnet\HelloWindow\bin\Debug\HelloWindow.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\HelloWindow\bin\Debug\HelloWindow.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\HelloWindow\obj\Debug\HelloWindow.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\HelloWindow\obj\Debug\HelloWindow.csproj.SuggestedBindingRedirects.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\HelloWindow\obj\Debug\HelloWindow.frmGreeting.resources
+C:\Users\labuser\Desktop\repos\Learning Dotnet\HelloWindow\obj\Debug\HelloWindow.Properties.Resources.resources
+C:\Users\labuser\Desktop\repos\Learning Dotnet\HelloWindow\obj\Debug\HelloWindow.csproj.GenerateResource.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\HelloWindow\obj\Debug\HelloWindow.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\HelloWindow\obj\Debug\HelloWindow.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\HelloWindow\obj\Debug\HelloWindow.pdb

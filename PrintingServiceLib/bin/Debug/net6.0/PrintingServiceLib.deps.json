@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PrintingServiceLib/1.0.0": {
+        "runtime": {
+          "PrintingServiceLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PrintingServiceLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

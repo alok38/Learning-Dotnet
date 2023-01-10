@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\CustomException\bin\Debug\net6.0\CustomException.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\CustomException\bin\Debug\net6.0\CustomException.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\CustomException\bin\Debug\net6.0\CustomException.runtimeconfig.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\CustomException\bin\Debug\net6.0\CustomException.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\CustomException\bin\Debug\net6.0\CustomException.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\CustomException\obj\Debug\net6.0\CustomException.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\CustomException\obj\Debug\net6.0\CustomException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\CustomException\obj\Debug\net6.0\CustomException.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\CustomException\obj\Debug\net6.0\CustomException.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\CustomException\obj\Debug\net6.0\CustomException.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\CustomException\obj\Debug\net6.0\CustomException.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\CustomException\obj\Debug\net6.0\refint\CustomException.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\CustomException\obj\Debug\net6.0\CustomException.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\CustomException\obj\Debug\net6.0\CustomException.genruntimeconfig.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\CustomException\obj\Debug\net6.0\ref\CustomException.dll

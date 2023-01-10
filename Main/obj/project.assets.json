@@ -1,0 +1,169 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Customer_lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Customer_lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Customer_lib.dll": {}
+        }
+      },
+      "DelegateLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DelegateLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DelegateLibrary.dll": {}
+        }
+      },
+      "Employee_lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Employee_lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Employee_lib.dll": {}
+        }
+      },
+      "Printerlib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DelegateLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Printerlib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Printerlib.dll": {}
+        }
+      },
+      "Student_lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Student_lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Student_lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Customer_lib/1.0.0": {
+      "type": "project",
+      "path": "../Customer_lib/Customer_lib.csproj",
+      "msbuildProject": "../Customer_lib/Customer_lib.csproj"
+    },
+    "DelegateLibrary/1.0.0": {
+      "type": "project",
+      "path": "../DelegateLibrary/DelegateLibrary.csproj",
+      "msbuildProject": "../DelegateLibrary/DelegateLibrary.csproj"
+    },
+    "Employee_lib/1.0.0": {
+      "type": "project",
+      "path": "../Employee/Employee_lib.csproj",
+      "msbuildProject": "../Employee/Employee_lib.csproj"
+    },
+    "Printerlib/1.0.0": {
+      "type": "project",
+      "path": "../Printer/Printerlib.csproj",
+      "msbuildProject": "../Printer/Printerlib.csproj"
+    },
+    "Student_lib/1.0.0": {
+      "type": "project",
+      "path": "../Student/Student_lib.csproj",
+      "msbuildProject": "../Student/Student_lib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Customer_lib >= 1.0.0",
+      "DelegateLibrary >= 1.0.0",
+      "Employee_lib >= 1.0.0",
+      "Printerlib >= 1.0.0",
+      "Student_lib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\labuser\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\Main\\Main.csproj",
+      "projectName": "Main",
+      "projectPath": "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\Main\\Main.csproj",
+      "packagesPath": "C:\\Users\\labuser\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\Main\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\labuser\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\Customer_lib\\Customer_lib.csproj": {
+              "projectPath": "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\Customer_lib\\Customer_lib.csproj"
+            },
+            "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\DelegateLibrary\\DelegateLibrary.csproj": {
+              "projectPath": "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\DelegateLibrary\\DelegateLibrary.csproj"
+            },
+            "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\Employee\\Employee_lib.csproj": {
+              "projectPath": "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\Employee\\Employee_lib.csproj"
+            },
+            "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\Printer\\Printerlib.csproj": {
+              "projectPath": "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\Printer\\Printerlib.csproj"
+            },
+            "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\Student\\Student_lib.csproj": {
+              "projectPath": "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\Student\\Student_lib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

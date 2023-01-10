@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ImplicitlyTypedLocalVariable\bin\Debug\net6.0\ImplicitlyTypedLocalVariable.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ImplicitlyTypedLocalVariable\bin\Debug\net6.0\ImplicitlyTypedLocalVariable.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ImplicitlyTypedLocalVariable\bin\Debug\net6.0\ImplicitlyTypedLocalVariable.runtimeconfig.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ImplicitlyTypedLocalVariable\bin\Debug\net6.0\ImplicitlyTypedLocalVariable.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ImplicitlyTypedLocalVariable\bin\Debug\net6.0\ImplicitlyTypedLocalVariable.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ImplicitlyTypedLocalVariable\obj\Debug\net6.0\ImplicitlyTypedLocalVariable.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ImplicitlyTypedLocalVariable\obj\Debug\net6.0\ImplicitlyTypedLocalVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ImplicitlyTypedLocalVariable\obj\Debug\net6.0\ImplicitlyTypedLocalVariable.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ImplicitlyTypedLocalVariable\obj\Debug\net6.0\ImplicitlyTypedLocalVariable.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ImplicitlyTypedLocalVariable\obj\Debug\net6.0\ImplicitlyTypedLocalVariable.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ImplicitlyTypedLocalVariable\obj\Debug\net6.0\ImplicitlyTypedLocalVariable.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ImplicitlyTypedLocalVariable\obj\Debug\net6.0\refint\ImplicitlyTypedLocalVariable.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ImplicitlyTypedLocalVariable\obj\Debug\net6.0\ImplicitlyTypedLocalVariable.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ImplicitlyTypedLocalVariable\obj\Debug\net6.0\ImplicitlyTypedLocalVariable.genruntimeconfig.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ImplicitlyTypedLocalVariable\obj\Debug\net6.0\ref\ImplicitlyTypedLocalVariable.dll

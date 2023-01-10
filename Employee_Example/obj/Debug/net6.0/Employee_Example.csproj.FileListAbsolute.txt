@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Example\bin\Debug\net6.0\Employee_Example.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Example\bin\Debug\net6.0\Employee_Example.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Example\bin\Debug\net6.0\Employee_Example.runtimeconfig.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Example\bin\Debug\net6.0\Employee_Example.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Example\bin\Debug\net6.0\Employee_Example.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Example\obj\Debug\net6.0\Employee_Example.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Example\obj\Debug\net6.0\Employee_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Example\obj\Debug\net6.0\Employee_Example.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Example\obj\Debug\net6.0\Employee_Example.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Example\obj\Debug\net6.0\Employee_Example.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Example\obj\Debug\net6.0\Employee_Example.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Example\obj\Debug\net6.0\refint\Employee_Example.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Example\obj\Debug\net6.0\Employee_Example.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Example\obj\Debug\net6.0\Employee_Example.genruntimeconfig.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Example\obj\Debug\net6.0\ref\Employee_Example.dll

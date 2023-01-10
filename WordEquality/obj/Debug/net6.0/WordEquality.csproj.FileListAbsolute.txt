@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\WordEquality\bin\Debug\net6.0\WordEquality.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\WordEquality\bin\Debug\net6.0\WordEquality.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\WordEquality\bin\Debug\net6.0\WordEquality.runtimeconfig.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\WordEquality\bin\Debug\net6.0\WordEquality.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\WordEquality\bin\Debug\net6.0\WordEquality.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\WordEquality\obj\Debug\net6.0\WordEquality.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\WordEquality\obj\Debug\net6.0\WordEquality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\WordEquality\obj\Debug\net6.0\WordEquality.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\WordEquality\obj\Debug\net6.0\WordEquality.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\WordEquality\obj\Debug\net6.0\WordEquality.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\WordEquality\obj\Debug\net6.0\WordEquality.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\WordEquality\obj\Debug\net6.0\refint\WordEquality.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\WordEquality\obj\Debug\net6.0\WordEquality.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\WordEquality\obj\Debug\net6.0\WordEquality.genruntimeconfig.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\WordEquality\obj\Debug\net6.0\ref\WordEquality.dll

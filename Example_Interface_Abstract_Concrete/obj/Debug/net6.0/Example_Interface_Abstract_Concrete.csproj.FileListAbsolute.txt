@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Example_Interface_Abstract_Concrete\bin\Debug\net6.0\Example_Interface_Abstract_Concrete.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Example_Interface_Abstract_Concrete\bin\Debug\net6.0\Example_Interface_Abstract_Concrete.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Example_Interface_Abstract_Concrete\bin\Debug\net6.0\Example_Interface_Abstract_Concrete.runtimeconfig.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Example_Interface_Abstract_Concrete\bin\Debug\net6.0\Example_Interface_Abstract_Concrete.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Example_Interface_Abstract_Concrete\bin\Debug\net6.0\Example_Interface_Abstract_Concrete.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Example_Interface_Abstract_Concrete\obj\Debug\net6.0\Example_Interface_Abstract_Concrete.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Example_Interface_Abstract_Concrete\obj\Debug\net6.0\Example_Interface_Abstract_Concrete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Example_Interface_Abstract_Concrete\obj\Debug\net6.0\Example_Interface_Abstract_Concrete.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Example_Interface_Abstract_Concrete\obj\Debug\net6.0\Example_Interface_Abstract_Concrete.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Example_Interface_Abstract_Concrete\obj\Debug\net6.0\Example_Interface_Abstract_Concrete.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Example_Interface_Abstract_Concrete\obj\Debug\net6.0\Example_Interface_Abstract_Concrete.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Example_Interface_Abstract_Concrete\obj\Debug\net6.0\refint\Example_Interface_Abstract_Concrete.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Example_Interface_Abstract_Concrete\obj\Debug\net6.0\Example_Interface_Abstract_Concrete.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Example_Interface_Abstract_Concrete\obj\Debug\net6.0\Example_Interface_Abstract_Concrete.genruntimeconfig.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Example_Interface_Abstract_Concrete\obj\Debug\net6.0\ref\Example_Interface_Abstract_Concrete.dll

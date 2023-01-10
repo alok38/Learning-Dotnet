@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ExceptionHandlingBasics\bin\Debug\net6.0\ExceptionHandlingBasics.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ExceptionHandlingBasics\bin\Debug\net6.0\ExceptionHandlingBasics.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ExceptionHandlingBasics\bin\Debug\net6.0\ExceptionHandlingBasics.runtimeconfig.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ExceptionHandlingBasics\bin\Debug\net6.0\ExceptionHandlingBasics.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ExceptionHandlingBasics\bin\Debug\net6.0\ExceptionHandlingBasics.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ExceptionHandlingBasics\obj\Debug\net6.0\ExceptionHandlingBasics.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ExceptionHandlingBasics\obj\Debug\net6.0\ExceptionHandlingBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ExceptionHandlingBasics\obj\Debug\net6.0\ExceptionHandlingBasics.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ExceptionHandlingBasics\obj\Debug\net6.0\ExceptionHandlingBasics.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ExceptionHandlingBasics\obj\Debug\net6.0\ExceptionHandlingBasics.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ExceptionHandlingBasics\obj\Debug\net6.0\ExceptionHandlingBasics.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ExceptionHandlingBasics\obj\Debug\net6.0\refint\ExceptionHandlingBasics.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ExceptionHandlingBasics\obj\Debug\net6.0\ExceptionHandlingBasics.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ExceptionHandlingBasics\obj\Debug\net6.0\ExceptionHandlingBasics.genruntimeconfig.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ExceptionHandlingBasics\obj\Debug\net6.0\ref\ExceptionHandlingBasics.dll

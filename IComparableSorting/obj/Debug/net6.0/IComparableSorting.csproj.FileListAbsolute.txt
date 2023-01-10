@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IComparableSorting\bin\Debug\net6.0\IComparableSorting.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IComparableSorting\bin\Debug\net6.0\IComparableSorting.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IComparableSorting\bin\Debug\net6.0\IComparableSorting.runtimeconfig.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IComparableSorting\bin\Debug\net6.0\IComparableSorting.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IComparableSorting\bin\Debug\net6.0\IComparableSorting.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IComparableSorting\obj\Debug\net6.0\IComparableSorting.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IComparableSorting\obj\Debug\net6.0\IComparableSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IComparableSorting\obj\Debug\net6.0\IComparableSorting.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IComparableSorting\obj\Debug\net6.0\IComparableSorting.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IComparableSorting\obj\Debug\net6.0\IComparableSorting.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IComparableSorting\obj\Debug\net6.0\IComparableSorting.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IComparableSorting\obj\Debug\net6.0\refint\IComparableSorting.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IComparableSorting\obj\Debug\net6.0\IComparableSorting.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IComparableSorting\obj\Debug\net6.0\IComparableSorting.genruntimeconfig.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IComparableSorting\obj\Debug\net6.0\ref\IComparableSorting.dll

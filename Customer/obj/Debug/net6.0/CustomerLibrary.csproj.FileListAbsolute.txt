@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Customer\bin\Debug\net6.0\CustomerLibrary.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Customer\bin\Debug\net6.0\CustomerLibrary.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Customer\bin\Debug\net6.0\CustomerLibrary.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Customer\bin\Debug\net6.0\PrintingServiceLib.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Customer\bin\Debug\net6.0\PrintingServiceLib.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Customer\obj\Debug\net6.0\CustomerLibrary.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Customer\obj\Debug\net6.0\CustomerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Customer\obj\Debug\net6.0\CustomerLibrary.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Customer\obj\Debug\net6.0\CustomerLibrary.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Customer\obj\Debug\net6.0\CustomerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Customer\obj\Debug\net6.0\CustomerLibrary.csproj.CopyComplete
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Customer\obj\Debug\net6.0\CustomerLibrary.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Customer\obj\Debug\net6.0\refint\CustomerLibrary.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Customer\obj\Debug\net6.0\CustomerLibrary.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Customer\obj\Debug\net6.0\ref\CustomerLibrary.dll

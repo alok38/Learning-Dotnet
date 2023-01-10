@@ -1,0 +1,8 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Database_Operations\bin\Debug\Database_Operations.exe.config
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Database_Operations\bin\Debug\Database_Operations.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Database_Operations\bin\Debug\Database_Operations.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Database_Operations\obj\Debug\Database_Operations.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Database_Operations\obj\Debug\Database_Operations.csproj.SuggestedBindingRedirects.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Database_Operations\obj\Debug\Database_Operations.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Database_Operations\obj\Debug\Database_Operations.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Database_Operations\obj\Debug\Database_Operations.pdb

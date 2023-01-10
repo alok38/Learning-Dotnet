@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "z8hdoVgS1i/JxwSTkXVXYfqVRwVXmZYvFNlPKUeuXK9eZrSdDXiVSj268PJq2vapb8Cfze0GsgOvrdRqqsoibQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\MainClass\\MainClass.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\Student_lib\\Student_lib.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\Student_lib\\Student_lib.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\Employee_lib\\Employee_lib.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\Employee_lib\\Employee_lib.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

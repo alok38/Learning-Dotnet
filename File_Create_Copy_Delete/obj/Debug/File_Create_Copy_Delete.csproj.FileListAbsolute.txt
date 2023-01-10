@@ -1,0 +1,11 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\File_Create_Copy_Delete\bin\Debug\File_Create_Copy_Delete.exe.config
+C:\Users\labuser\Desktop\repos\Learning Dotnet\File_Create_Copy_Delete\bin\Debug\File_Create_Copy_Delete.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\File_Create_Copy_Delete\bin\Debug\File_Create_Copy_Delete.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\File_Create_Copy_Delete\obj\Debug\File_Create_Copy_Delete.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\File_Create_Copy_Delete\obj\Debug\File_Create_Copy_Delete.csproj.SuggestedBindingRedirects.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\File_Create_Copy_Delete\obj\Debug\File_Create_Copy_Delete.frmOperations.resources
+C:\Users\labuser\Desktop\repos\Learning Dotnet\File_Create_Copy_Delete\obj\Debug\File_Create_Copy_Delete.Properties.Resources.resources
+C:\Users\labuser\Desktop\repos\Learning Dotnet\File_Create_Copy_Delete\obj\Debug\File_Create_Copy_Delete.csproj.GenerateResource.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\File_Create_Copy_Delete\obj\Debug\File_Create_Copy_Delete.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\File_Create_Copy_Delete\obj\Debug\File_Create_Copy_Delete.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\File_Create_Copy_Delete\obj\Debug\File_Create_Copy_Delete.pdb

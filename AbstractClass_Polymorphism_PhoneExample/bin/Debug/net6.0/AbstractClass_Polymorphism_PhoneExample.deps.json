@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AbstractClass_Polymorphism_PhoneExample/1.0.0": {
+        "runtime": {
+          "AbstractClass_Polymorphism_PhoneExample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbstractClass_Polymorphism_PhoneExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

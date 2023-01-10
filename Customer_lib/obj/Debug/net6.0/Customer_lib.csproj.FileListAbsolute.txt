@@ -1,0 +1,12 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Customer_lib\bin\Debug\net6.0\Customer_lib.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Customer_lib\bin\Debug\net6.0\Customer_lib.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Customer_lib\bin\Debug\net6.0\Customer_lib.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Customer_lib\obj\Debug\net6.0\Customer_lib.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Customer_lib\obj\Debug\net6.0\Customer_lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Customer_lib\obj\Debug\net6.0\Customer_lib.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Customer_lib\obj\Debug\net6.0\Customer_lib.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Customer_lib\obj\Debug\net6.0\Customer_lib.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Customer_lib\obj\Debug\net6.0\Customer_lib.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Customer_lib\obj\Debug\net6.0\refint\Customer_lib.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Customer_lib\obj\Debug\net6.0\Customer_lib.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Customer_lib\obj\Debug\net6.0\ref\Customer_lib.dll

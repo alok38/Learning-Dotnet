@@ -1,0 +1,244 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\MainClass\\MainClass.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\Customer_lib\\Customer_lib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\Customer_lib\\Customer_lib.csproj",
+        "projectName": "Customer_lib",
+        "projectPath": "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\Customer_lib\\Customer_lib.csproj",
+        "packagesPath": "C:\\Users\\labuser\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\Customer_lib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\labuser\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\DelegateLibrary\\DelegateLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\DelegateLibrary\\DelegateLibrary.csproj",
+        "projectName": "DelegateLibrary",
+        "projectPath": "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\DelegateLibrary\\DelegateLibrary.csproj",
+        "packagesPath": "C:\\Users\\labuser\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\DelegateLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\labuser\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\MainClass\\MainClass.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\MainClass\\MainClass.csproj",
+        "projectName": "MainClass",
+        "projectPath": "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\MainClass\\MainClass.csproj",
+        "packagesPath": "C:\\Users\\labuser\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\MainClass\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\labuser\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\Customer_lib\\Customer_lib.csproj": {
+                "projectPath": "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\Customer_lib\\Customer_lib.csproj"
+              },
+              "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\DelegateLibrary\\DelegateLibrary.csproj": {
+                "projectPath": "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\DelegateLibrary\\DelegateLibrary.csproj"
+              },
+              "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\Employee_lib\\Employee_lib.csproj": {
+                "projectPath": "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\Employee_lib\\Employee_lib.csproj"
+              },
+              "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\Printer\\Printerlib.csproj": {
+                "projectPath": "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\Printer\\Printerlib.csproj"
+              },
+              "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\Student_lib\\Student_lib.csproj": {
+                "projectPath": "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\Student_lib\\Student_lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\Printer\\Printerlib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\Printer\\Printerlib.csproj",
+        "projectName": "Printerlib",
+        "projectPath": "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\Printer\\Printerlib.csproj",
+        "packagesPath": "C:\\Users\\labuser\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\Printer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\labuser\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\DelegateLibrary\\DelegateLibrary.csproj": {
+                "projectPath": "C:\\Users\\labuser\\Desktop\\repos\\Learning Dotnet\\DelegateLibrary\\DelegateLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

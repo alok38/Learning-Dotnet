@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Functional_Expression_SimpleExample/1.0.0": {
+        "runtime": {
+          "Functional_Expression_SimpleExample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Functional_Expression_SimpleExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Dispose\bin\Debug\net6.0\Dispose.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Dispose\bin\Debug\net6.0\Dispose.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Dispose\bin\Debug\net6.0\Dispose.runtimeconfig.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Dispose\bin\Debug\net6.0\Dispose.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Dispose\bin\Debug\net6.0\Dispose.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Dispose\obj\Debug\net6.0\Dispose.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Dispose\obj\Debug\net6.0\Dispose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Dispose\obj\Debug\net6.0\Dispose.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Dispose\obj\Debug\net6.0\Dispose.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Dispose\obj\Debug\net6.0\Dispose.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Dispose\obj\Debug\net6.0\Dispose.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Dispose\obj\Debug\net6.0\refint\Dispose.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Dispose\obj\Debug\net6.0\Dispose.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Dispose\obj\Debug\net6.0\Dispose.genruntimeconfig.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Dispose\obj\Debug\net6.0\ref\Dispose.dll

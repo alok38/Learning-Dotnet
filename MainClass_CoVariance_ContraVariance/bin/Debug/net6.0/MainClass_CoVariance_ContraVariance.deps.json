@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MainClass_CoVariance_ContraVariance/1.0.0": {
+        "dependencies": {
+          "CoVariance_ContraVariance_Generic_Delegate": "1.0.0"
+        },
+        "runtime": {
+          "MainClass_CoVariance_ContraVariance.dll": {}
+        }
+      },
+      "CoVariance_ContraVariance_Generic_Delegate/1.0.0": {
+        "runtime": {
+          "CoVariance_ContraVariance_Generic_Delegate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MainClass_CoVariance_ContraVariance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CoVariance_ContraVariance_Generic_Delegate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

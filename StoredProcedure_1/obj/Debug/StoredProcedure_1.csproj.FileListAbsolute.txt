@@ -1,0 +1,11 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\StoredProcedure_1\bin\Debug\StoredProcedure_1.exe.config
+C:\Users\labuser\Desktop\repos\Learning Dotnet\StoredProcedure_1\bin\Debug\StoredProcedure_1.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\StoredProcedure_1\bin\Debug\StoredProcedure_1.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\StoredProcedure_1\obj\Debug\StoredProcedure_1.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\StoredProcedure_1\obj\Debug\StoredProcedure_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\StoredProcedure_1\obj\Debug\StoredProcedure_1.Form1.resources
+C:\Users\labuser\Desktop\repos\Learning Dotnet\StoredProcedure_1\obj\Debug\StoredProcedure_1.Properties.Resources.resources
+C:\Users\labuser\Desktop\repos\Learning Dotnet\StoredProcedure_1\obj\Debug\StoredProcedure_1.csproj.GenerateResource.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\StoredProcedure_1\obj\Debug\StoredProcedure_1.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\StoredProcedure_1\obj\Debug\StoredProcedure_1.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\StoredProcedure_1\obj\Debug\StoredProcedure_1.pdb

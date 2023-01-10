@@ -1,0 +1,13 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Northwind_EntityFramework\bin\Debug\Northwind_EntityFramework.exe.config
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Northwind_EntityFramework\bin\Debug\Northwind_EntityFramework.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Northwind_EntityFramework\bin\Debug\Northwind_EntityFramework.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Northwind_EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Northwind_EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Northwind_EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Northwind_EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Northwind_EntityFramework\obj\Debug\Northwind_EntityFramework.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Northwind_EntityFramework\obj\Debug\Northwind_EntityFramework.csproj.SuggestedBindingRedirects.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Northwind_EntityFramework\obj\Debug\Northwind_EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Northwind_EntityFramework\obj\Debug\Northwind_EntityFramework.csproj.CopyComplete
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Northwind_EntityFramework\obj\Debug\Northwind_EntityFramework.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Northwind_EntityFramework\obj\Debug\Northwind_EntityFramework.pdb

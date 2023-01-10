@@ -1,0 +1,83 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Main/1.0.0": {
+        "dependencies": {
+          "Customer_lib": "1.0.0",
+          "DelegateLibrary": "1.0.0",
+          "Employee_lib": "1.0.0",
+          "Printerlib": "1.0.0",
+          "Student_lib": "1.0.0"
+        },
+        "runtime": {
+          "Main.dll": {}
+        }
+      },
+      "Customer_lib/1.0.0": {
+        "runtime": {
+          "Customer_lib.dll": {}
+        }
+      },
+      "DelegateLibrary/1.0.0": {
+        "runtime": {
+          "DelegateLibrary.dll": {}
+        }
+      },
+      "Employee_lib/1.0.0": {
+        "runtime": {
+          "Employee_lib.dll": {}
+        }
+      },
+      "Printerlib/1.0.0": {
+        "dependencies": {
+          "DelegateLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Printerlib.dll": {}
+        }
+      },
+      "Student_lib/1.0.0": {
+        "runtime": {
+          "Student_lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Customer_lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DelegateLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Employee_lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Printerlib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Student_lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

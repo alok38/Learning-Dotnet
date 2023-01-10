@@ -1,0 +1,8 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Service_Project\bin\Debug\Employee_Service_Project.exe.config
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Service_Project\bin\Debug\Employee_Service_Project.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Service_Project\bin\Debug\Employee_Service_Project.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Service_Project\obj\Debug\Employee_Service_Project.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Service_Project\obj\Debug\Employee_Service_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Service_Project\obj\Debug\Employee_Service_Project.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Service_Project\obj\Debug\Employee_Service_Project.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Service_Project\obj\Debug\Employee_Service_Project.pdb

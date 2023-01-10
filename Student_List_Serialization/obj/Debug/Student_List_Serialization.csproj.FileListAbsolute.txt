@@ -1,0 +1,11 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Student_List_Serialization\bin\Debug\Student_List_Serialization.exe.config
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Student_List_Serialization\bin\Debug\Student_List_Serialization.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Student_List_Serialization\bin\Debug\Student_List_Serialization.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Student_List_Serialization\obj\Debug\Student_List_Serialization.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Student_List_Serialization\obj\Debug\Student_List_Serialization.csproj.SuggestedBindingRedirects.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Student_List_Serialization\obj\Debug\Student_List_Serialization.Form1.resources
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Student_List_Serialization\obj\Debug\Student_List_Serialization.Properties.Resources.resources
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Student_List_Serialization\obj\Debug\Student_List_Serialization.csproj.GenerateResource.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Student_List_Serialization\obj\Debug\Student_List_Serialization.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Student_List_Serialization\obj\Debug\Student_List_Serialization.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Student_List_Serialization\obj\Debug\Student_List_Serialization.pdb

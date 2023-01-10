@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\NameLength\bin\Debug\net6.0\NameLength.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\NameLength\bin\Debug\net6.0\NameLength.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\NameLength\bin\Debug\net6.0\NameLength.runtimeconfig.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\NameLength\bin\Debug\net6.0\NameLength.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\NameLength\bin\Debug\net6.0\NameLength.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\NameLength\obj\Debug\net6.0\NameLength.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\NameLength\obj\Debug\net6.0\NameLength.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\NameLength\obj\Debug\net6.0\NameLength.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\NameLength\obj\Debug\net6.0\NameLength.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\NameLength\obj\Debug\net6.0\NameLength.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\NameLength\obj\Debug\net6.0\NameLength.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\NameLength\obj\Debug\net6.0\refint\NameLength.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\NameLength\obj\Debug\net6.0\NameLength.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\NameLength\obj\Debug\net6.0\NameLength.genruntimeconfig.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\NameLength\obj\Debug\net6.0\ref\NameLength.dll

@@ -1,0 +1,11 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Typed_UnTyped_Datasets\bin\Debug\Typed_UnTyped_Datasets.exe.config
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Typed_UnTyped_Datasets\bin\Debug\Typed_UnTyped_Datasets.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Typed_UnTyped_Datasets\bin\Debug\Typed_UnTyped_Datasets.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Typed_UnTyped_Datasets\obj\Debug\Typed_UnTyped_Datasets.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Typed_UnTyped_Datasets\obj\Debug\Typed_UnTyped_Datasets.csproj.SuggestedBindingRedirects.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Typed_UnTyped_Datasets\obj\Debug\Typed_UnTyped_Datasets.Form1.resources
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Typed_UnTyped_Datasets\obj\Debug\Typed_UnTyped_Datasets.Properties.Resources.resources
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Typed_UnTyped_Datasets\obj\Debug\Typed_UnTyped_Datasets.csproj.GenerateResource.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Typed_UnTyped_Datasets\obj\Debug\Typed_UnTyped_Datasets.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Typed_UnTyped_Datasets\obj\Debug\Typed_UnTyped_Datasets.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Typed_UnTyped_Datasets\obj\Debug\Typed_UnTyped_Datasets.pdb

@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Threads\bin\Debug\net6.0\Threads.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Threads\bin\Debug\net6.0\Threads.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Threads\bin\Debug\net6.0\Threads.runtimeconfig.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Threads\bin\Debug\net6.0\Threads.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Threads\bin\Debug\net6.0\Threads.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Threads\obj\Debug\net6.0\Threads.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Threads\obj\Debug\net6.0\Threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Threads\obj\Debug\net6.0\Threads.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Threads\obj\Debug\net6.0\Threads.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Threads\obj\Debug\net6.0\Threads.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Threads\obj\Debug\net6.0\Threads.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Threads\obj\Debug\net6.0\refint\Threads.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Threads\obj\Debug\net6.0\Threads.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Threads\obj\Debug\net6.0\Threads.genruntimeconfig.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Threads\obj\Debug\net6.0\ref\Threads.dll

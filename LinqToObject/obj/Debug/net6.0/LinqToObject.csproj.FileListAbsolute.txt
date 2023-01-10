@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\LinqToObject\bin\Debug\net6.0\LinqToObject.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\LinqToObject\bin\Debug\net6.0\LinqToObject.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\LinqToObject\bin\Debug\net6.0\LinqToObject.runtimeconfig.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\LinqToObject\bin\Debug\net6.0\LinqToObject.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\LinqToObject\bin\Debug\net6.0\LinqToObject.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\LinqToObject\obj\Debug\net6.0\LinqToObject.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\LinqToObject\obj\Debug\net6.0\LinqToObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\LinqToObject\obj\Debug\net6.0\LinqToObject.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\LinqToObject\obj\Debug\net6.0\LinqToObject.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\LinqToObject\obj\Debug\net6.0\LinqToObject.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\LinqToObject\obj\Debug\net6.0\LinqToObject.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\LinqToObject\obj\Debug\net6.0\refint\LinqToObject.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\LinqToObject\obj\Debug\net6.0\LinqToObject.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\LinqToObject\obj\Debug\net6.0\LinqToObject.genruntimeconfig.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\LinqToObject\obj\Debug\net6.0\ref\LinqToObject.dll

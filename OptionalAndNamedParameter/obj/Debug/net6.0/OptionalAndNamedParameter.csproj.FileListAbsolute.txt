@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\OptionalAndNamedParameter\bin\Debug\net6.0\OptionalAndNamedParameter.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\OptionalAndNamedParameter\bin\Debug\net6.0\OptionalAndNamedParameter.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\OptionalAndNamedParameter\bin\Debug\net6.0\OptionalAndNamedParameter.runtimeconfig.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\OptionalAndNamedParameter\bin\Debug\net6.0\OptionalAndNamedParameter.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\OptionalAndNamedParameter\bin\Debug\net6.0\OptionalAndNamedParameter.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\OptionalAndNamedParameter\obj\Debug\net6.0\OptionalAndNamedParameter.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\OptionalAndNamedParameter\obj\Debug\net6.0\OptionalAndNamedParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\OptionalAndNamedParameter\obj\Debug\net6.0\OptionalAndNamedParameter.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\OptionalAndNamedParameter\obj\Debug\net6.0\OptionalAndNamedParameter.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\OptionalAndNamedParameter\obj\Debug\net6.0\OptionalAndNamedParameter.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\OptionalAndNamedParameter\obj\Debug\net6.0\OptionalAndNamedParameter.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\OptionalAndNamedParameter\obj\Debug\net6.0\refint\OptionalAndNamedParameter.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\OptionalAndNamedParameter\obj\Debug\net6.0\OptionalAndNamedParameter.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\OptionalAndNamedParameter\obj\Debug\net6.0\OptionalAndNamedParameter.genruntimeconfig.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\OptionalAndNamedParameter\obj\Debug\net6.0\ref\OptionalAndNamedParameter.dll

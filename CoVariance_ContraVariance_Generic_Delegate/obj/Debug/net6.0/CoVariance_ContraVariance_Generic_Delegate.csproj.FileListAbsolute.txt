@@ -1,0 +1,12 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\CoVariance_ContraVariance_Generic_Delegate\bin\Debug\net6.0\CoVariance_ContraVariance_Generic_Delegate.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\CoVariance_ContraVariance_Generic_Delegate\bin\Debug\net6.0\CoVariance_ContraVariance_Generic_Delegate.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\CoVariance_ContraVariance_Generic_Delegate\bin\Debug\net6.0\CoVariance_ContraVariance_Generic_Delegate.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\CoVariance_ContraVariance_Generic_Delegate\obj\Debug\net6.0\CoVariance_ContraVariance_Generic_Delegate.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\CoVariance_ContraVariance_Generic_Delegate\obj\Debug\net6.0\CoVariance_ContraVariance_Generic_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\CoVariance_ContraVariance_Generic_Delegate\obj\Debug\net6.0\CoVariance_ContraVariance_Generic_Delegate.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\CoVariance_ContraVariance_Generic_Delegate\obj\Debug\net6.0\CoVariance_ContraVariance_Generic_Delegate.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\CoVariance_ContraVariance_Generic_Delegate\obj\Debug\net6.0\CoVariance_ContraVariance_Generic_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\CoVariance_ContraVariance_Generic_Delegate\obj\Debug\net6.0\CoVariance_ContraVariance_Generic_Delegate.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\CoVariance_ContraVariance_Generic_Delegate\obj\Debug\net6.0\refint\CoVariance_ContraVariance_Generic_Delegate.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\CoVariance_ContraVariance_Generic_Delegate\obj\Debug\net6.0\CoVariance_ContraVariance_Generic_Delegate.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\CoVariance_ContraVariance_Generic_Delegate\obj\Debug\net6.0\ref\CoVariance_ContraVariance_Generic_Delegate.dll

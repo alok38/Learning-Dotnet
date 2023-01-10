@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\BankAccountOperation\bin\Debug\net6.0\BankAccountOperation.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\BankAccountOperation\bin\Debug\net6.0\BankAccountOperation.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\BankAccountOperation\bin\Debug\net6.0\BankAccountOperation.runtimeconfig.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\BankAccountOperation\bin\Debug\net6.0\BankAccountOperation.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\BankAccountOperation\bin\Debug\net6.0\BankAccountOperation.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\BankAccountOperation\obj\Debug\net6.0\BankAccountOperation.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\BankAccountOperation\obj\Debug\net6.0\BankAccountOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\BankAccountOperation\obj\Debug\net6.0\BankAccountOperation.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\BankAccountOperation\obj\Debug\net6.0\BankAccountOperation.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\BankAccountOperation\obj\Debug\net6.0\BankAccountOperation.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\BankAccountOperation\obj\Debug\net6.0\BankAccountOperation.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\BankAccountOperation\obj\Debug\net6.0\refint\BankAccountOperation.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\BankAccountOperation\obj\Debug\net6.0\BankAccountOperation.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\BankAccountOperation\obj\Debug\net6.0\BankAccountOperation.genruntimeconfig.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\BankAccountOperation\obj\Debug\net6.0\ref\BankAccountOperation.dll

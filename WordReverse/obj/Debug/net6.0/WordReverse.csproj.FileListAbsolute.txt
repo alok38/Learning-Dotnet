@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\WordReverse\bin\Debug\net6.0\WordReverse.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\WordReverse\bin\Debug\net6.0\WordReverse.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\WordReverse\bin\Debug\net6.0\WordReverse.runtimeconfig.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\WordReverse\bin\Debug\net6.0\WordReverse.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\WordReverse\bin\Debug\net6.0\WordReverse.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\WordReverse\obj\Debug\net6.0\WordReverse.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\WordReverse\obj\Debug\net6.0\WordReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\WordReverse\obj\Debug\net6.0\WordReverse.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\WordReverse\obj\Debug\net6.0\WordReverse.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\WordReverse\obj\Debug\net6.0\WordReverse.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\WordReverse\obj\Debug\net6.0\WordReverse.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\WordReverse\obj\Debug\net6.0\refint\WordReverse.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\WordReverse\obj\Debug\net6.0\WordReverse.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\WordReverse\obj\Debug\net6.0\WordReverse.genruntimeconfig.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\WordReverse\obj\Debug\net6.0\ref\WordReverse.dll

@@ -1,0 +1,11 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Database_Inset_Update_Select_Delete_Form\bin\Debug\Database_Inset_Update_Select_Delete_Form.exe.config
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Database_Inset_Update_Select_Delete_Form\bin\Debug\Database_Inset_Update_Select_Delete_Form.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Database_Inset_Update_Select_Delete_Form\bin\Debug\Database_Inset_Update_Select_Delete_Form.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Database_Inset_Update_Select_Delete_Form\obj\Debug\Database_Inset_Update_Select_Delete_Form.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Database_Inset_Update_Select_Delete_Form\obj\Debug\Database_Inset_Update_Select_Delete_Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Database_Inset_Update_Select_Delete_Form\obj\Debug\Database_Inset_Update_Select_Delete_Form.EmployeeForm.resources
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Database_Inset_Update_Select_Delete_Form\obj\Debug\Database_Inset_Update_Select_Delete_Form.Properties.Resources.resources
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Database_Inset_Update_Select_Delete_Form\obj\Debug\Database_Inset_Update_Select_Delete_Form.csproj.GenerateResource.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Database_Inset_Update_Select_Delete_Form\obj\Debug\Database_Inset_Update_Select_Delete_Form.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Database_Inset_Update_Select_Delete_Form\obj\Debug\Database_Inset_Update_Select_Delete_Form.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Database_Inset_Update_Select_Delete_Form\obj\Debug\Database_Inset_Update_Select_Delete_Form.pdb

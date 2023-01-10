@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EmployeeLibrary\bin\Debug\net6.0\EmployeeLibrary.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EmployeeLibrary\bin\Debug\net6.0\EmployeeLibrary.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EmployeeLibrary\bin\Debug\net6.0\EmployeeLibrary.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EmployeeLibrary\bin\Debug\net6.0\PrintingServiceLib.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EmployeeLibrary\bin\Debug\net6.0\PrintingServiceLib.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.csproj.CopyComplete
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EmployeeLibrary\obj\Debug\net6.0\refint\EmployeeLibrary.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EmployeeLibrary\obj\Debug\net6.0\ref\EmployeeLibrary.dll

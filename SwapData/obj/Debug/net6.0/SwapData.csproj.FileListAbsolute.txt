@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\SwapData\obj\Debug\net6.0\SwapData.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\SwapData\obj\Debug\net6.0\SwapData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\SwapData\obj\Debug\net6.0\SwapData.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\SwapData\obj\Debug\net6.0\SwapData.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\SwapData\obj\Debug\net6.0\SwapData.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\SwapData\bin\Debug\net6.0\SwapData.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\SwapData\bin\Debug\net6.0\SwapData.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\SwapData\bin\Debug\net6.0\SwapData.runtimeconfig.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\SwapData\bin\Debug\net6.0\SwapData.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\SwapData\bin\Debug\net6.0\SwapData.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\SwapData\obj\Debug\net6.0\SwapData.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\SwapData\obj\Debug\net6.0\refint\SwapData.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\SwapData\obj\Debug\net6.0\SwapData.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\SwapData\obj\Debug\net6.0\SwapData.genruntimeconfig.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\SwapData\obj\Debug\net6.0\ref\SwapData.dll

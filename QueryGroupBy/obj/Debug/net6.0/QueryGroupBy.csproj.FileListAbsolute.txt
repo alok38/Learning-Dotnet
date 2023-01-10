@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QueryGroupBy\bin\Debug\net6.0\QueryGroupBy.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QueryGroupBy\bin\Debug\net6.0\QueryGroupBy.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QueryGroupBy\bin\Debug\net6.0\QueryGroupBy.runtimeconfig.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QueryGroupBy\bin\Debug\net6.0\QueryGroupBy.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QueryGroupBy\bin\Debug\net6.0\QueryGroupBy.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QueryGroupBy\obj\Debug\net6.0\QueryGroupBy.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QueryGroupBy\obj\Debug\net6.0\QueryGroupBy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QueryGroupBy\obj\Debug\net6.0\QueryGroupBy.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QueryGroupBy\obj\Debug\net6.0\QueryGroupBy.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QueryGroupBy\obj\Debug\net6.0\QueryGroupBy.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QueryGroupBy\obj\Debug\net6.0\QueryGroupBy.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QueryGroupBy\obj\Debug\net6.0\refint\QueryGroupBy.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QueryGroupBy\obj\Debug\net6.0\QueryGroupBy.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QueryGroupBy\obj\Debug\net6.0\QueryGroupBy.genruntimeconfig.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QueryGroupBy\obj\Debug\net6.0\ref\QueryGroupBy.dll

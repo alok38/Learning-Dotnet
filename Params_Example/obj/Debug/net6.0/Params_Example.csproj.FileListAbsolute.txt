@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Params_Example\bin\Debug\net6.0\Params_Example.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Params_Example\bin\Debug\net6.0\Params_Example.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Params_Example\bin\Debug\net6.0\Params_Example.runtimeconfig.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Params_Example\bin\Debug\net6.0\Params_Example.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Params_Example\bin\Debug\net6.0\Params_Example.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Params_Example\obj\Debug\net6.0\Params_Example.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Params_Example\obj\Debug\net6.0\Params_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Params_Example\obj\Debug\net6.0\Params_Example.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Params_Example\obj\Debug\net6.0\Params_Example.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Params_Example\obj\Debug\net6.0\Params_Example.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Params_Example\obj\Debug\net6.0\Params_Example.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Params_Example\obj\Debug\net6.0\refint\Params_Example.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Params_Example\obj\Debug\net6.0\Params_Example.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Params_Example\obj\Debug\net6.0\Params_Example.genruntimeconfig.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Params_Example\obj\Debug\net6.0\ref\Params_Example.dll

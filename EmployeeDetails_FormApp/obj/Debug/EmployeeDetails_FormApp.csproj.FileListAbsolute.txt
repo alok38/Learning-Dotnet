@@ -1,0 +1,11 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EmployeeDetails_FormApp\bin\Debug\EmployeeDetails_FormApp.exe.config
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EmployeeDetails_FormApp\bin\Debug\EmployeeDetails_FormApp.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EmployeeDetails_FormApp\bin\Debug\EmployeeDetails_FormApp.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EmployeeDetails_FormApp\obj\Debug\EmployeeDetails_FormApp.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EmployeeDetails_FormApp\obj\Debug\EmployeeDetails_FormApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EmployeeDetails_FormApp\obj\Debug\EmployeeDetails_FormApp.Form1.resources
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EmployeeDetails_FormApp\obj\Debug\EmployeeDetails_FormApp.Properties.Resources.resources
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EmployeeDetails_FormApp\obj\Debug\EmployeeDetails_FormApp.csproj.GenerateResource.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EmployeeDetails_FormApp\obj\Debug\EmployeeDetails_FormApp.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EmployeeDetails_FormApp\obj\Debug\EmployeeDetails_FormApp.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EmployeeDetails_FormApp\obj\Debug\EmployeeDetails_FormApp.pdb

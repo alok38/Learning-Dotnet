@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IEnumerable\bin\Debug\net6.0\IEnumerable.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IEnumerable\bin\Debug\net6.0\IEnumerable.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IEnumerable\bin\Debug\net6.0\IEnumerable.runtimeconfig.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IEnumerable\bin\Debug\net6.0\IEnumerable.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IEnumerable\bin\Debug\net6.0\IEnumerable.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IEnumerable\obj\Debug\net6.0\IEnumerable.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IEnumerable\obj\Debug\net6.0\IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IEnumerable\obj\Debug\net6.0\IEnumerable.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IEnumerable\obj\Debug\net6.0\IEnumerable.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IEnumerable\obj\Debug\net6.0\IEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IEnumerable\obj\Debug\net6.0\IEnumerable.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IEnumerable\obj\Debug\net6.0\refint\IEnumerable.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IEnumerable\obj\Debug\net6.0\IEnumerable.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IEnumerable\obj\Debug\net6.0\IEnumerable.genruntimeconfig.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IEnumerable\obj\Debug\net6.0\ref\IEnumerable.dll

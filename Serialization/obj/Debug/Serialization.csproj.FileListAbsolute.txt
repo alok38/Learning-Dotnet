@@ -1,0 +1,11 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Serialization\bin\Debug\Serialization.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Serialization\bin\Debug\Serialization.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Serialization\obj\Debug\Serialization.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Serialization\obj\Debug\Serialization.csproj.SuggestedBindingRedirects.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Serialization\obj\Debug\Serialization.Form1.resources
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Serialization\obj\Debug\Serialization.Properties.Resources.resources
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Serialization\obj\Debug\Serialization.csproj.GenerateResource.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Serialization\obj\Debug\Serialization.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Serialization\obj\Debug\Serialization.pdb

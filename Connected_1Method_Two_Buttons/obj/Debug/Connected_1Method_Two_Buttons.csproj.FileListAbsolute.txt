@@ -1,0 +1,11 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Connected_1Method_Two_Buttons\bin\Debug\Connected_1Method_Two_Buttons.exe.config
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Connected_1Method_Two_Buttons\bin\Debug\Connected_1Method_Two_Buttons.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Connected_1Method_Two_Buttons\bin\Debug\Connected_1Method_Two_Buttons.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Connected_1Method_Two_Buttons\obj\Debug\Connected_1Method_Two_Buttons.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Connected_1Method_Two_Buttons\obj\Debug\Connected_1Method_Two_Buttons.csproj.SuggestedBindingRedirects.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Connected_1Method_Two_Buttons\obj\Debug\Connected_1Method_Two_Buttons.Form1.resources
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Connected_1Method_Two_Buttons\obj\Debug\Connected_1Method_Two_Buttons.Properties.Resources.resources
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Connected_1Method_Two_Buttons\obj\Debug\Connected_1Method_Two_Buttons.csproj.GenerateResource.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Connected_1Method_Two_Buttons\obj\Debug\Connected_1Method_Two_Buttons.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Connected_1Method_Two_Buttons\obj\Debug\Connected_1Method_Two_Buttons.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Connected_1Method_Two_Buttons\obj\Debug\Connected_1Method_Two_Buttons.pdb

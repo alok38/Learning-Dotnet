@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.runtimeconfig.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EvenOrOdd\obj\Debug\net6.0\refint\EvenOrOdd.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.genruntimeconfig.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EvenOrOdd\obj\Debug\net6.0\ref\EvenOrOdd.dll

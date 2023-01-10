@@ -1,0 +1,11 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Select_Next_Form\bin\Debug\Select_Next_Form.exe.config
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Select_Next_Form\bin\Debug\Select_Next_Form.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Select_Next_Form\bin\Debug\Select_Next_Form.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Select_Next_Form\obj\Debug\Select_Next_Form.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Select_Next_Form\obj\Debug\Select_Next_Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Select_Next_Form\obj\Debug\Select_Next_Form.Form1.resources
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Select_Next_Form\obj\Debug\Select_Next_Form.Properties.Resources.resources
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Select_Next_Form\obj\Debug\Select_Next_Form.csproj.GenerateResource.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Select_Next_Form\obj\Debug\Select_Next_Form.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Select_Next_Form\obj\Debug\Select_Next_Form.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Select_Next_Form\obj\Debug\Select_Next_Form.pdb

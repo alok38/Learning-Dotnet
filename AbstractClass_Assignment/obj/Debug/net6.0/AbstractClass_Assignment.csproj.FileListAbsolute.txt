@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\AbstractClass_Assignment\bin\Debug\net6.0\AbstractClass_Assignment.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\AbstractClass_Assignment\bin\Debug\net6.0\AbstractClass_Assignment.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\AbstractClass_Assignment\bin\Debug\net6.0\AbstractClass_Assignment.runtimeconfig.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\AbstractClass_Assignment\bin\Debug\net6.0\AbstractClass_Assignment.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\AbstractClass_Assignment\bin\Debug\net6.0\AbstractClass_Assignment.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\AbstractClass_Assignment\obj\Debug\net6.0\AbstractClass_Assignment.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\AbstractClass_Assignment\obj\Debug\net6.0\AbstractClass_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\AbstractClass_Assignment\obj\Debug\net6.0\AbstractClass_Assignment.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\AbstractClass_Assignment\obj\Debug\net6.0\AbstractClass_Assignment.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\AbstractClass_Assignment\obj\Debug\net6.0\AbstractClass_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\AbstractClass_Assignment\obj\Debug\net6.0\AbstractClass_Assignment.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\AbstractClass_Assignment\obj\Debug\net6.0\refint\AbstractClass_Assignment.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\AbstractClass_Assignment\obj\Debug\net6.0\AbstractClass_Assignment.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\AbstractClass_Assignment\obj\Debug\net6.0\AbstractClass_Assignment.genruntimeconfig.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\AbstractClass_Assignment\obj\Debug\net6.0\ref\AbstractClass_Assignment.dll

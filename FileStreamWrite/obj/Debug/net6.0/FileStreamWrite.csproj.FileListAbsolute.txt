@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\FileStreamWrite\bin\Debug\net6.0\FileStreamWrite.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\FileStreamWrite\bin\Debug\net6.0\FileStreamWrite.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\FileStreamWrite\bin\Debug\net6.0\FileStreamWrite.runtimeconfig.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\FileStreamWrite\bin\Debug\net6.0\FileStreamWrite.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\FileStreamWrite\bin\Debug\net6.0\FileStreamWrite.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\FileStreamWrite\obj\Debug\net6.0\FileStreamWrite.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\FileStreamWrite\obj\Debug\net6.0\FileStreamWrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\FileStreamWrite\obj\Debug\net6.0\FileStreamWrite.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\FileStreamWrite\obj\Debug\net6.0\FileStreamWrite.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\FileStreamWrite\obj\Debug\net6.0\FileStreamWrite.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\FileStreamWrite\obj\Debug\net6.0\FileStreamWrite.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\FileStreamWrite\obj\Debug\net6.0\refint\FileStreamWrite.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\FileStreamWrite\obj\Debug\net6.0\FileStreamWrite.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\FileStreamWrite\obj\Debug\net6.0\FileStreamWrite.genruntimeconfig.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\FileStreamWrite\obj\Debug\net6.0\ref\FileStreamWrite.dll

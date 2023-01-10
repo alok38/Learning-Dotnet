@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ObjectInitializer\bin\Debug\net6.0\ObjectInitializer.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ObjectInitializer\bin\Debug\net6.0\ObjectInitializer.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ObjectInitializer\bin\Debug\net6.0\ObjectInitializer.runtimeconfig.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ObjectInitializer\bin\Debug\net6.0\ObjectInitializer.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ObjectInitializer\bin\Debug\net6.0\ObjectInitializer.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ObjectInitializer\obj\Debug\net6.0\ObjectInitializer.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ObjectInitializer\obj\Debug\net6.0\ObjectInitializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ObjectInitializer\obj\Debug\net6.0\ObjectInitializer.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ObjectInitializer\obj\Debug\net6.0\ObjectInitializer.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ObjectInitializer\obj\Debug\net6.0\ObjectInitializer.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ObjectInitializer\obj\Debug\net6.0\ObjectInitializer.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ObjectInitializer\obj\Debug\net6.0\refint\ObjectInitializer.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ObjectInitializer\obj\Debug\net6.0\ObjectInitializer.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ObjectInitializer\obj\Debug\net6.0\ObjectInitializer.genruntimeconfig.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\ObjectInitializer\obj\Debug\net6.0\ref\ObjectInitializer.dll

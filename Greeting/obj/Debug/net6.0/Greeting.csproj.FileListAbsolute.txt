@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Greeting\bin\Debug\net6.0\Greeting.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Greeting\bin\Debug\net6.0\Greeting.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Greeting\bin\Debug\net6.0\Greeting.runtimeconfig.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Greeting\bin\Debug\net6.0\Greeting.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Greeting\bin\Debug\net6.0\Greeting.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Greeting\obj\Debug\net6.0\Greeting.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Greeting\obj\Debug\net6.0\Greeting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Greeting\obj\Debug\net6.0\Greeting.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Greeting\obj\Debug\net6.0\Greeting.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Greeting\obj\Debug\net6.0\Greeting.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Greeting\obj\Debug\net6.0\Greeting.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Greeting\obj\Debug\net6.0\refint\Greeting.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Greeting\obj\Debug\net6.0\Greeting.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Greeting\obj\Debug\net6.0\Greeting.genruntimeconfig.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Greeting\obj\Debug\net6.0\ref\Greeting.dll

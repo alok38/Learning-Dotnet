@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\DelegateExperiment2\bin\Debug\net6.0\DelegateExperiment2.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\DelegateExperiment2\bin\Debug\net6.0\DelegateExperiment2.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\DelegateExperiment2\bin\Debug\net6.0\DelegateExperiment2.runtimeconfig.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\DelegateExperiment2\bin\Debug\net6.0\DelegateExperiment2.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\DelegateExperiment2\bin\Debug\net6.0\DelegateExperiment2.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\DelegateExperiment2\obj\Debug\net6.0\DelegateExperiment2.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\DelegateExperiment2\obj\Debug\net6.0\DelegateExperiment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\DelegateExperiment2\obj\Debug\net6.0\DelegateExperiment2.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\DelegateExperiment2\obj\Debug\net6.0\DelegateExperiment2.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\DelegateExperiment2\obj\Debug\net6.0\DelegateExperiment2.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\DelegateExperiment2\obj\Debug\net6.0\DelegateExperiment2.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\DelegateExperiment2\obj\Debug\net6.0\refint\DelegateExperiment2.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\DelegateExperiment2\obj\Debug\net6.0\DelegateExperiment2.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\DelegateExperiment2\obj\Debug\net6.0\DelegateExperiment2.genruntimeconfig.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\DelegateExperiment2\obj\Debug\net6.0\ref\DelegateExperiment2.dll

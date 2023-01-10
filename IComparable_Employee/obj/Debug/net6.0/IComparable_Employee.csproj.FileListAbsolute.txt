@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IComparable_Employee\bin\Debug\net6.0\IComparable_Employee.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IComparable_Employee\bin\Debug\net6.0\IComparable_Employee.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IComparable_Employee\bin\Debug\net6.0\IComparable_Employee.runtimeconfig.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IComparable_Employee\bin\Debug\net6.0\IComparable_Employee.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IComparable_Employee\bin\Debug\net6.0\IComparable_Employee.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IComparable_Employee\obj\Debug\net6.0\IComparable_Employee.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IComparable_Employee\obj\Debug\net6.0\IComparable_Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IComparable_Employee\obj\Debug\net6.0\IComparable_Employee.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IComparable_Employee\obj\Debug\net6.0\IComparable_Employee.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IComparable_Employee\obj\Debug\net6.0\IComparable_Employee.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IComparable_Employee\obj\Debug\net6.0\IComparable_Employee.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IComparable_Employee\obj\Debug\net6.0\refint\IComparable_Employee.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IComparable_Employee\obj\Debug\net6.0\IComparable_Employee.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IComparable_Employee\obj\Debug\net6.0\IComparable_Employee.genruntimeconfig.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\IComparable_Employee\obj\Debug\net6.0\ref\IComparable_Employee.dll

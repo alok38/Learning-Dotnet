@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Exception_Account\bin\Debug\net6.0\Exception_Account.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Exception_Account\bin\Debug\net6.0\Exception_Account.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Exception_Account\bin\Debug\net6.0\Exception_Account.runtimeconfig.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Exception_Account\bin\Debug\net6.0\Exception_Account.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Exception_Account\bin\Debug\net6.0\Exception_Account.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Exception_Account\obj\Debug\net6.0\Exception_Account.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Exception_Account\obj\Debug\net6.0\Exception_Account.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Exception_Account\obj\Debug\net6.0\Exception_Account.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Exception_Account\obj\Debug\net6.0\Exception_Account.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Exception_Account\obj\Debug\net6.0\Exception_Account.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Exception_Account\obj\Debug\net6.0\Exception_Account.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Exception_Account\obj\Debug\net6.0\refint\Exception_Account.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Exception_Account\obj\Debug\net6.0\Exception_Account.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Exception_Account\obj\Debug\net6.0\Exception_Account.genruntimeconfig.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Exception_Account\obj\Debug\net6.0\ref\Exception_Account.dll

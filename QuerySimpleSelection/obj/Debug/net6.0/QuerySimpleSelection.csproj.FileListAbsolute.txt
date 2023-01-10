@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QuerySimpleSelection\bin\Debug\net6.0\QuerySimpleSelection.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QuerySimpleSelection\bin\Debug\net6.0\QuerySimpleSelection.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QuerySimpleSelection\bin\Debug\net6.0\QuerySimpleSelection.runtimeconfig.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QuerySimpleSelection\bin\Debug\net6.0\QuerySimpleSelection.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QuerySimpleSelection\bin\Debug\net6.0\QuerySimpleSelection.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QuerySimpleSelection\obj\Debug\net6.0\QuerySimpleSelection.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QuerySimpleSelection\obj\Debug\net6.0\QuerySimpleSelection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QuerySimpleSelection\obj\Debug\net6.0\QuerySimpleSelection.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QuerySimpleSelection\obj\Debug\net6.0\QuerySimpleSelection.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QuerySimpleSelection\obj\Debug\net6.0\QuerySimpleSelection.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QuerySimpleSelection\obj\Debug\net6.0\QuerySimpleSelection.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QuerySimpleSelection\obj\Debug\net6.0\refint\QuerySimpleSelection.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QuerySimpleSelection\obj\Debug\net6.0\QuerySimpleSelection.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QuerySimpleSelection\obj\Debug\net6.0\QuerySimpleSelection.genruntimeconfig.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\QuerySimpleSelection\obj\Debug\net6.0\ref\QuerySimpleSelection.dll

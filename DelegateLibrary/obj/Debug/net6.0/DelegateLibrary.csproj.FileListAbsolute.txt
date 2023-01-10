@@ -1,0 +1,12 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\DelegateLibrary\bin\Debug\net6.0\DelegateLibrary.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\DelegateLibrary\bin\Debug\net6.0\DelegateLibrary.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\DelegateLibrary\bin\Debug\net6.0\DelegateLibrary.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\DelegateLibrary\obj\Debug\net6.0\DelegateLibrary.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\DelegateLibrary\obj\Debug\net6.0\DelegateLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\DelegateLibrary\obj\Debug\net6.0\DelegateLibrary.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\DelegateLibrary\obj\Debug\net6.0\DelegateLibrary.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\DelegateLibrary\obj\Debug\net6.0\DelegateLibrary.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\DelegateLibrary\obj\Debug\net6.0\DelegateLibrary.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\DelegateLibrary\obj\Debug\net6.0\refint\DelegateLibrary.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\DelegateLibrary\obj\Debug\net6.0\DelegateLibrary.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\DelegateLibrary\obj\Debug\net6.0\ref\DelegateLibrary.dll

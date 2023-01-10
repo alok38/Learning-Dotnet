@@ -1,0 +1,5 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EXperimentttttttttt\obj\Debug\net6.0\EXperimentttttttttt.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EXperimentttttttttt\obj\Debug\net6.0\EXperimentttttttttt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EXperimentttttttttt\obj\Debug\net6.0\EXperimentttttttttt.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EXperimentttttttttt\obj\Debug\net6.0\EXperimentttttttttt.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\EXperimentttttttttt\obj\Debug\net6.0\EXperimentttttttttt.csproj.CoreCompileInputs.cache

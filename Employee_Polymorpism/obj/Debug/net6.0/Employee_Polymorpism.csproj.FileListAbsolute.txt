@@ -1,0 +1,15 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Polymorpism\bin\Debug\net6.0\Employee_Polymorpism.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Polymorpism\bin\Debug\net6.0\Employee_Polymorpism.deps.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Polymorpism\bin\Debug\net6.0\Employee_Polymorpism.runtimeconfig.json
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Polymorpism\bin\Debug\net6.0\Employee_Polymorpism.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Polymorpism\bin\Debug\net6.0\Employee_Polymorpism.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Polymorpism\obj\Debug\net6.0\Employee_Polymorpism.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Polymorpism\obj\Debug\net6.0\Employee_Polymorpism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Polymorpism\obj\Debug\net6.0\Employee_Polymorpism.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Polymorpism\obj\Debug\net6.0\Employee_Polymorpism.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Polymorpism\obj\Debug\net6.0\Employee_Polymorpism.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Polymorpism\obj\Debug\net6.0\Employee_Polymorpism.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Polymorpism\obj\Debug\net6.0\refint\Employee_Polymorpism.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Polymorpism\obj\Debug\net6.0\Employee_Polymorpism.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Polymorpism\obj\Debug\net6.0\Employee_Polymorpism.genruntimeconfig.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Employee_Polymorpism\obj\Debug\net6.0\ref\Employee_Polymorpism.dll
