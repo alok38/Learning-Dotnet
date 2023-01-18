@@ -1,0 +1,24 @@
+﻿@model HelloMVC.Models.Employee
+@{
+    ViewBag.Title = "EmployeeTypedView";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>EmployeeTypedView</h2>
+
+Employee Details
+
+<br />Employee Name : @Model.FirstName @Model.LastName
+
+@if (Model.Salary > 15000)
+ {
+                <span style="background-color:yellow">
+                    <br />Employee Salary: @Model.Salary.ToString("C")
+                </span>
+ }
+ else
+ {
+<span style="background-color:green">
+    <br />Employee Salary: @Model.Salary.ToString("C")
+</span>
+ }

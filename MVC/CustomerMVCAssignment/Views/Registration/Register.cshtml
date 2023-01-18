@@ -1,0 +1,43 @@
+﻿@model CustomerMVCAssignment.Models.UserDetails
+@{
+    ViewBag.Title = "Register";
+}
+
+<h2>Register</h2>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Create User</title>
+    <script>
+    </script>
+</head>
+<body>
+    <div>
+        <form action="/Registration/SaveUser" method="post">
+            <table>
+                <tr>
+                    <td>
+                        UserName:
+                    </td>
+                    <td>
+                        <input type="text" id="TxtUName" name="UserName" value="@Model.UserName" />
+                    </td>
+                <tr>
+                    <td>
+                        Password:
+                    </td>
+                    <td>
+                        <input type="text" id="TxtPassword" name="Password" value="@Model.Password" />
+                    </td>
+                </tr>
+                <tr>
+                    <td><input type="submit" name="BtnSubmit" value="SaveUser" /></td>
+                </tr>
+            </table>
+        </form>
+    </div>
+</body>
+</html>
+

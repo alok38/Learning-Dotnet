@@ -1,0 +1,16 @@
+﻿@model HelloMVC.Models.EmployeeViewModel
+@{
+    ViewBag.Title = "EmployeeViewModel_View";
+}
+
+<h2>EmployeeViewModel_View</h2>
+
+Hello @Model.UserName
+<hr />
+<div>
+    <b>Employee Details</b><br />
+    Employee Name: @Model.EmployeeName <br />
+    <span style="background-color:@Model.SalaryColor">
+        Employee Salary: @Model.Salary
+    </span>
+</div>

@@ -73,7 +73,7 @@ namespace MyDatabase_EntityFramework
         {
             //InsertEmployee();
            // UpdateEmployee();
-           // PrintAllEmployeeNames();
+           //PrintAllEmployeeNames();
            
         }
     }

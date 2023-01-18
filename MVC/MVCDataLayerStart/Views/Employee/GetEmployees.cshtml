@@ -1,0 +1,28 @@
+﻿@using MVCDataLayerStart.ViewModel;
+@model EmployeeRecordsViewModel
+@{
+    ViewBag.Title = "GetEmployees";
+}
+
+<h2>GetEmployees</h2>
+<a href="/Employee/AddNew">Add a New Employee</a>
+<div>
+    <table border="1">
+        <tr>
+            <th>Employee Id</th>
+            <th>Employee Name</th>
+            <th>Salary</th>
+        </tr>
+        @foreach (EmployeeViewModel item in Model.MyEmployees)
+        {
+            <tr>
+                <td>@item.EmployeeID</td>
+                <td>@item.EmployeeName</td>
+                <td style="background-color:@item.SalaryColor">
+                    @item.Salary
+                </td>
+            </tr>
+        }
+    </table>
+
+</div>

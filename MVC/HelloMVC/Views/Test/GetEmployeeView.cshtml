@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewBag.Title = "GetEmployeeView";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>GetEmployeeView</h2>
+<div>
+    @{ 
+        HelloMVC.Models.Employee emp = new HelloMVC.Models.Employee(); //ViewData["Employee"];
+        emp.FirstName = "Rajeev";
+        emp.LastName = "Chauhan";
+        emp.Salary = 10000;
+    }
+
+    <b> Employee Details: </b><br />
+    Employee Name: @emp.FirstName @emp.LastName <br />
+    Employee Salary: @emp.Salary.ToString("C")
+</div>

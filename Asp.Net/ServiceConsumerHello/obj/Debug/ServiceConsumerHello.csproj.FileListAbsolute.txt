@@ -1,0 +1,8 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Asp.Net\ServiceConsumerHello\bin\Debug\ServiceConsumerHello.exe.config
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Asp.Net\ServiceConsumerHello\bin\Debug\ServiceConsumerHello.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Asp.Net\ServiceConsumerHello\bin\Debug\ServiceConsumerHello.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Asp.Net\ServiceConsumerHello\obj\Debug\ServiceConsumerHello.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Asp.Net\ServiceConsumerHello\obj\Debug\ServiceConsumerHello.csproj.SuggestedBindingRedirects.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Asp.Net\ServiceConsumerHello\obj\Debug\ServiceConsumerHello.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Asp.Net\ServiceConsumerHello\obj\Debug\ServiceConsumerHello.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\Asp.Net\ServiceConsumerHello\obj\Debug\ServiceConsumerHello.pdb

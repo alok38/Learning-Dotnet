@@ -1,0 +1,28 @@
+﻿@using CustomerMVCAssignment.ViewModel;
+@model CustomerRecordsViewModel
+@{
+    ViewBag.Title = "GetCustomers";
+}
+
+<h2>GetCustomers</h2>
+<a href="/Customer/AddNew">Add a New Customer</a>
+<div>
+    <table border="1">
+        <tr>
+            <th>Customer Id</th>
+            <th>Customer Name</th>
+            <th>Age</th>
+        </tr>
+        @foreach (CustomerViewModel item in Model.MyCustomers)
+        {
+            <tr>
+                <td>@item.CustomerID</td>
+                <td>@item.CustomerName</td>
+                <td style="background-color:@item.AgeColor">
+                    @item.Age
+                </td>
+            </tr>
+        }
+    </table>
+
+</div>

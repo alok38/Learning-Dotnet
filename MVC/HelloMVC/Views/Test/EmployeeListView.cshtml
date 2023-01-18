@@ -1,0 +1,36 @@
+﻿@using HelloMVC.Models
+@model AnotherEmployeeListViewModel
+@{
+    ViewBag.Title = "EmployeeListView";
+}
+
+<h2>EmployeeListView</h2>
+<body>
+    Hello @Model.UserName
+    <hr />
+    <div>
+        <table border="1">
+            <tr>
+                <th>Employee Name</th>
+                <th>Salary</th>
+            </tr>
+            @foreach (AnotherEmployeeViewModel item in Model.MyEmployees)
+            {
+                <tr>
+                    <td>@item.EmployeeName</td>
+                    <td style="background-color:@item.SalaryColor">@item.Salary</td>
+                </tr>
+            }
+        </table>
+    </div>
+    <div>
+        @foreach(AnotherEmployeeViewModel item in Model.MyEmployees)
+            {
+                <label>Employee Name:</label>
+                @Html.TextBox("Name", item.EmployeeName)
+                <label>Salary:</label>
+                @Html.TextBox("Salary", item.Salary)
+                <br />
+            }
+    </div>
+</body>
