@@ -1,0 +1,32 @@
+﻿@using MVCProduct.ViewModel
+@using MVCProduct.Models
+@model ProductRecordsViewModel
+@{
+    ViewBag.Title = "GetProducts";
+}
+
+<h2>GetProducts</h2>
+
+
+<div>
+    <table border="1">
+        <tr>
+            <th>Product Id</th>
+            <th>ProductName</th>
+            <th>Price</th>
+            <th>Category</th>
+        </tr>
+        @foreach (Product item in Model.MyProducts)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>
+                    @item.Price
+                </td>
+                <td>@item.Category</td>
+            </tr>
+        }
+    </table>
+
+</div>

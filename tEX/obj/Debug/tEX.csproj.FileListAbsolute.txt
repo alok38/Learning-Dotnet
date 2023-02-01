@@ -1,0 +1,13 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\tEX\bin\Debug\tEX.exe.config
+C:\Users\labuser\Desktop\repos\Learning Dotnet\tEX\bin\Debug\tEX.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\tEX\bin\Debug\tEX.pdb
+C:\Users\labuser\Desktop\repos\Learning Dotnet\tEX\bin\Debug\EntityFramework.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\tEX\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\labuser\Desktop\repos\Learning Dotnet\tEX\bin\Debug\EntityFramework.xml
+C:\Users\labuser\Desktop\repos\Learning Dotnet\tEX\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\labuser\Desktop\repos\Learning Dotnet\tEX\obj\Debug\tEX.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\tEX\obj\Debug\tEX.csproj.SuggestedBindingRedirects.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\tEX\obj\Debug\tEX.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\tEX\obj\Debug\tEX.csproj.CopyComplete
+C:\Users\labuser\Desktop\repos\Learning Dotnet\tEX\obj\Debug\tEX.exe
+C:\Users\labuser\Desktop\repos\Learning Dotnet\tEX\obj\Debug\tEX.pdb

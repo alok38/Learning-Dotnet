@@ -1,0 +1,5 @@
+C:\Users\labuser\Desktop\repos\Learning Dotnet\LinqToSql\obj\Debug\net6.0\LinqToSql.csproj.AssemblyReference.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\LinqToSql\obj\Debug\net6.0\LinqToSql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\repos\Learning Dotnet\LinqToSql\obj\Debug\net6.0\LinqToSql.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\repos\Learning Dotnet\LinqToSql\obj\Debug\net6.0\LinqToSql.AssemblyInfo.cs
+C:\Users\labuser\Desktop\repos\Learning Dotnet\LinqToSql\obj\Debug\net6.0\LinqToSql.csproj.CoreCompileInputs.cache

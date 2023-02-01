@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewBag.Title = "UpdateProduct";
+} 
+<html>
+ 
+<h2>UpdateProduct</h2>
+<div>
+    <form action="/Product/UpdateProductById" method="post">
+        Product Id: <input type="text" name="Id" value="" />
+        Product Name: <input type="text" name="Name" value="" />
+        Product Price: <input type="text" name="Price" value="" />
+        Product Category: <input type="text" name="Category" value="" />        
+        <input type="submit" name="BtnSubmit" value="Update" />
+    </form>
+</div> 
+</html> 

@@ -1,0 +1,6 @@
+namespace EmployeesDepartmentProjectApi.Areas.HelpPage.ModelDescriptions
+{
+    public class DictionaryModelDescription : KeyValuePairModelDescription
+    {
+    }
+}
